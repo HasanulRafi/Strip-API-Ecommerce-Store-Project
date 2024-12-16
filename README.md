@@ -1,4 +1,4 @@
-##🛒 Node.js Shopping Cart with Stripe API Integration
+🛒 Node.js Shopping Cart with Stripe API Integration
 
 
 
