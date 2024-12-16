@@ -1,6 +1,9 @@
 
 
-🛒 Node.js Shopping Cart with Stripe API Integration
+🛒 # Node.js Shopping Cart with Stripe API Integration
+
+
+
 This project demonstrates how to build a shopping cart with Node.js and integrate it with the Stripe API to handle secure online transactions. The starter code includes pre-built HTML and CSS files, along with some initial JavaScript logic. In this project, you'll expand the functionality by setting up the shopping cart details and integrating Stripe for payment processing.
 
 Clone this repository to obtain the starter code for this project. It includes the html and css files as well as some starter Javascript code. Together we will be adding in the details to the store page, as well as setting up Stripe API to enable transactions.
